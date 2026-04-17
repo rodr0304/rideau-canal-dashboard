@@ -1,1 +1,12 @@
-
+{
+  "name": "rideau-canal-dashboard",
+  "version": "1.0.0",
+  "description": "Simple dashboard for the Rideau Canal Monitoring project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
